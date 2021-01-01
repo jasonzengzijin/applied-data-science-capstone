@@ -1,4 +1,4 @@
 ''' This project is for applied data science capstone'''
 import pandas as pd
-import iumpy as np
+import numpy as np
 print('Hello Capstone Project Course')
