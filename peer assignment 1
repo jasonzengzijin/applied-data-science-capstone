@@ -1,4 +1,4 @@
 ''' This project is for applied data science capstone'''
-Import pandas as pd
-Import bumpy as np
+import pandas as pd
+import iumpy as np
 print('Hello Capstone Project Course')
